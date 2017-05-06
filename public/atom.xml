@@ -4,9 +4,9 @@
   <subtitle>not shallow</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://254288935.github.io/"/>
   <updated>2017-04-22T08:12:22.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://254288935.github.io/</id>
   
   <author>
     <name>李东洋</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>让孩子远离校园欺凌</title>
-    <link href="http://yoursite.com/2017/04/22/%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BF%9C%E7%A6%BB%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C/"/>
-    <id>http://yoursite.com/2017/04/22/让孩子远离校园欺凌/</id>
+    <link href="http://254288935.github.io/2017/04/22/%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%BF%9C%E7%A6%BB%E6%A0%A1%E5%9B%AD%E6%AC%BA%E5%87%8C/"/>
+    <id>http://254288935.github.io/2017/04/22/让孩子远离校园欺凌/</id>
     <published>2017-04-22T08:12:22.000Z</published>
     <updated>2017-04-22T08:12:22.000Z</updated>
     
@@ -54,19 +54,19 @@
     
     </summary>
     
-      <category term="技能get" scheme="http://yoursite.com/categories/%E6%8A%80%E8%83%BDget/"/>
+      <category term="技能get" scheme="http://254288935.github.io/categories/%E6%8A%80%E8%83%BDget/"/>
     
     
-      <category term="亲子" scheme="http://yoursite.com/tags/%E4%BA%B2%E5%AD%90/"/>
+      <category term="亲子" scheme="http://254288935.github.io/tags/%E4%BA%B2%E5%AD%90/"/>
     
-      <category term="校园" scheme="http://yoursite.com/tags/%E6%A0%A1%E5%9B%AD/"/>
+      <category term="校园" scheme="http://254288935.github.io/tags/%E6%A0%A1%E5%9B%AD/"/>
     
   </entry>
   
   <entry>
     <title>RIO、STF、Frontend交互相关功能</title>
-    <link href="http://yoursite.com/2017/04/21/RIO%E3%80%81STF%E3%80%81Frontend%E4%BA%A4%E4%BA%92%E7%9B%B8%E5%85%B3%E5%8A%9F%E8%83%BD/"/>
-    <id>http://yoursite.com/2017/04/21/RIO、STF、Frontend交互相关功能/</id>
+    <link href="http://254288935.github.io/2017/04/21/RIO%E3%80%81STF%E3%80%81Frontend%E4%BA%A4%E4%BA%92%E7%9B%B8%E5%85%B3%E5%8A%9F%E8%83%BD/"/>
+    <id>http://254288935.github.io/2017/04/21/RIO、STF、Frontend交互相关功能/</id>
     <published>2017-04-21T04:45:40.000Z</published>
     <updated>2017-04-22T03:35:57.000Z</updated>
     
@@ -93,19 +93,19 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://254288935.github.io/categories/Testing/"/>
     
     
-      <category term="Testbird" scheme="http://yoursite.com/tags/Testbird/"/>
+      <category term="Testbird" scheme="http://254288935.github.io/tags/Testbird/"/>
     
-      <category term="项目关系" scheme="http://yoursite.com/tags/%E9%A1%B9%E7%9B%AE%E5%85%B3%E7%B3%BB/"/>
+      <category term="项目关系" scheme="http://254288935.github.io/tags/%E9%A1%B9%E7%9B%AE%E5%85%B3%E7%B3%BB/"/>
     
   </entry>
   
   <entry>
     <title>first_touch</title>
-    <link href="http://yoursite.com/2017/04/21/first-touch/"/>
-    <id>http://yoursite.com/2017/04/21/first-touch/</id>
+    <link href="http://254288935.github.io/2017/04/21/first-touch/"/>
+    <id>http://254288935.github.io/2017/04/21/first-touch/</id>
     <published>2017-04-21T02:44:35.000Z</published>
     <updated>2017-04-22T03:48:19.000Z</updated>
     
@@ -124,8 +124,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/20/hello-world/"/>
-    <id>http://yoursite.com/2017/04/20/hello-world/</id>
+    <link href="http://254288935.github.io/2017/04/20/hello-world/"/>
+    <id>http://254288935.github.io/2017/04/20/hello-world/</id>
     <published>2017-04-20T13:44:07.000Z</published>
     <updated>2017-04-20T13:44:07.000Z</updated>
     
